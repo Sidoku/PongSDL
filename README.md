@@ -34,4 +34,4 @@ Without any modifications, CMake will make use the following environment variabl
 * SDL2TTFDIR, which should point to the root directory of the SDL2_ttf library.
 
 ## Screenshots
-![alt text](https:// "WelcomeScene")
+<img width="30%" src="Images/Gameplay.png">
