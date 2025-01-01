@@ -1,4 +1,4 @@
-# sdl2-pong
+# PongSDL
 An SDL2 implementation of the classic Pong game.
 
 Each paddle is controlled by two players to make it a PvP game.
@@ -34,6 +34,4 @@ Without any modifications, CMake will make use the following environment variabl
 * SDL2TTFDIR, which should point to the root directory of the SDL2_ttf library.
 
 ## Screenshots
-![alt text](https://github.com/toivjon/sdl2-pong/blob/master/screenshots/welcome-scene.png "WelcomeScene")
-![alt text](https://github.com/toivjon/sdl2-pong/blob/master/screenshots/court-scene.png "CourtScene")
-![alt text](https://github.com/toivjon/sdl2-pong/blob/master/screenshots/endgame-scene.png "EndGameScene")
+![alt text](https:// "WelcomeScene")
